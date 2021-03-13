@@ -9,10 +9,6 @@ WordPress Blog project of Simplon.co BootCamp using Astra template.
     <img src="https://img.shields.io/badge/WordPress-blue" />
     <img src="https://img.shields.io/badge/PHP-blue" />
 
-## Project Link
-
-http://90476401306c.ngrok.io/
-
 ## Project Layout
 
 ![](ProjectLayout.png)
