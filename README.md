@@ -15,4 +15,4 @@ http://90476401306c.ngrok.io/
 
 ## Project Layout
 
-![](ProjectDemo.png)
+![](ProjectLayout.png)
